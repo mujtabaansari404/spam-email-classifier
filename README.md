@@ -5,7 +5,7 @@ This project is a simple **Email Classifier** using Python. It classifies emails
 ## Dataset
 
 The dataset for this project can be found here:  
-[Email Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) 
+[Email Dataset](https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset)
 
 ## Installation
 
